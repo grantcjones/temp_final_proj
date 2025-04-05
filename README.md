@@ -1,0 +1,1 @@
+- To run the program, first run just 'server.py' to start the server. Then, run prove once the server is running. If 404 errors occur, start from step one again.
